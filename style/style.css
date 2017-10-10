@@ -1,5 +1,6 @@
 .avatar-image {
 	text-align: left;
+	padding-left: 20px;
 }
 
 .profile-name {
@@ -7,8 +8,15 @@
 	font-weight: bold;
 	font-size: large;
 	color: cornflowerblue;
+	padding-left: 150px;
 }
 
 .row {
 	color: cornflowerblue;
+	align: center;
+	padding-left: 150px;
+}
+
+p, h1, h5, div {
+	padding-left: 20px;
 }
