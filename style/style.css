@@ -19,6 +19,11 @@
 
 h1, h2, h4, div {
 	padding-left: 20px;
+	text-align: center;
+}
+
+h1, h2, h4 {
+	text-decoration: underline;
 }
 
 ul, ol, p {
@@ -26,5 +31,10 @@ ul, ol, p {
 }
 
 i {
+	padding: 20px;
+}
 
+table {
+	margin-left: auto;
+	margin-right: auto;
 }
