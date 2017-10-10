@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f195cd2f-5180-43c5-b71c-91fd492cdb32" name="about-zachspangler" url="https://bootcamp-coders.cnm.edu/~mdavid5/about-zachspangler/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\mjdav\Desktop\bootcamp\ssh-key.openssh" rootFolder="/home/mdavid5/public_html/about-zachspangler/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
