@@ -17,6 +17,14 @@
 	padding-left: 150px;
 }
 
-p, h1, h5, div {
+h1, h2, h4, div {
 	padding-left: 20px;
+}
+
+ul, ol, p {
+	padding-left: 30px;
+}
+
+i {
+
 }
